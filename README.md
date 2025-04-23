@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LSuller
 - 👀 I’m interested in space!
-- 🌱 I’m currently learning Full Stach Development, carrying on from a CFG Degree.
+- 🌱 I’m currently learning Full Stack Development, carrying on from a CFG Degree.
 - 💞️ I’m looking to collaborate on cute little apps!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Saturn would float if we found a bathtub big enougbh!!
